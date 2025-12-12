@@ -91,8 +91,5 @@
 
 ---
 
-# 🐍 Contribution Snake Animation  
-> Add this file using GitHub Actions (I will give workflow if needed)
-
-```md
 ![snake gif](https://github.com/nidhill/nidhill/blob/output/github-contribution-grid-snake.svg)
+
