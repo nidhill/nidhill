@@ -67,13 +67,13 @@
 
 <br/>
 
-<div style="width: 100%; overflow: hidden;">
-  <img src="https://media.giphy.com/media/iId3d6lC0IXM6Z8VvL/giphy.gif" width="50" height="50" style="margin-bottom: -15px; position: relative; z-index: 2;" />
-  
-  <img src="https://media.giphy.com/media/26AHQN9K4Tf9fA85q/giphy.gif" width="100%" style="position: relative; z-index: 1;" />
-</div>
+<div style="position: relative; width: 100%;">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhill&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://media.giphy.com/media/iId3d6lC0IXM6Z8VvL/giphy.gif" width="60" style="margin-bottom: -15px; position: relative; z-index: 10;" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhill&bg_color=0D1117&color=e70012&line=e70012&point=ffffff&hide_border=true&area=true" width="100%" alt="Mario Activity Graph" />
+  
+</div>
 
 <br/><br/>
 
