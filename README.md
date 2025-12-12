@@ -84,6 +84,13 @@
 
 ---
 
+# 🟩 My GitHub Contribution Graph
+<p align="center">
+  <img src="https://ghchart.rshah.org/4F8EF7/nidhill" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
 # 🌊 Activity Wave Animation  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhill&theme=react-dark&area=true&hide_border=true&custom_title=🔥%20My%20Contribution%20Wave" />
