@@ -19,3 +19,8 @@
 [![](https://visitcount.itsvg.in/api?id=nidhill&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+## 🎮 Play My Snap Apple Game  
+[![Play Game](https://img.shields.io/badge/Play%20Snap%20Apple%20🍎-Click%20Here-brightgreen)](https://nidhill.github.io/snap-apple/)
+
