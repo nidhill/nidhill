@@ -1,77 +1,93 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=e70012&height=250&section=header&text=Super%20Nidhil&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Level%2022%20Developer%20|%20SaaS%20Builder&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nidhil!+%F0%9F%91%8B;Full-Stack+Developer;SaaS+Builder;Automation+Enthusiast" alt="Typing SVG" />
 
   <br/>
 
-  <img src="https://media.giphy.com/media/iId3d6lC0IXM6Z8VvL/giphy.gif" width="50" height="50"/>
-  <img src="https://media.giphy.com/media/iId3d6lC0IXM6Z8VvL/giphy.gif" width="50" height="50"/>
-  <img src="https://media.giphy.com/media/iId3d6lC0IXM6Z8VvL/giphy.gif" width="50" height="50"/>
-  
-  <br/><br/>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&size=16&duration=3000&pause=1000&color=E60012&center=true&vCenter=true&width=435&lines=PLAYER+SELECTED:+NIDHIL;MISSION:+BUILD+SCALABLE+SAAS;LOADING+SKILLS...;PRESS+START+TO+CONNECT" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://www.linkedin.com/in/muhammad-nidhil-6ba56a328">
-    <img src="https://img.shields.io/badge/LINKEDIN-Connect-blue?style=for-the-badge&logo=linkedin&color=0077B5"/>
+  <a href="https://www.linkedin.com/in/muhammad-nidhil-6ba56a328" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:nidhiljabbar@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-Contact-red?style=for-the-badge&logo=gmail&color=D14836"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
+  <br/><br/>
+
+  <p align="center">
+    I am a developer who loves building <b>real apps</b> — turning small ideas into scalable products.<br>
+    Currently focused on <b>SaaS development</b>, <b>Automation systems</b>, and <b>Backend performance</b>.
+  </p>
+
+</div>
+
+<br/>
+
+---
+
+### ⚡ What I'm Up To
+
+<div align="center">
+
+| 🧪 **Current Project** | 🔭 **Learning** | 🤝 **Collaborating** |
+|:---:|:---:|:---:|
+| Multi-brand **Social Media SaaS**<br>(Scheduler, Analytics, Automation) | Next.js, Cloud Deployments,<br>Meta Graph API | Full-stack Apps,<br>API Integrations |
+
 </div>
 
 ---
 
-### 🍄 Power-Ups (Tech Stack)
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/React-Level%20Up-20232a?style=flat&logo=react&color=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-Level%20Up-339933?style=flat&logo=node.js&color=339933"/>
-<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat&logo=mongodb&color=47A248"/>
-<img src="https://img.shields.io/badge/Next.js-Framework-000000?style=flat&logo=next.js&color=000000"/>
+**Frontend & Design**<br/>
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 
-<br/>
-<img src="https://img.shields.io/badge/Tailwind-Style-38B2AC?style=flat&logo=tailwind-css&color=38B2AC"/>
-<img src="https://img.shields.io/badge/Express-Backend-000000?style=flat&logo=express&color=000000"/>
-<img src="https://img.shields.io/badge/Git-Control-F05032?style=flat&logo=git&color=F05032"/>
-<img src="https://img.shields.io/badge/Figma-Design-F24E1E?style=flat&logo=figma&color=F24E1E"/>
+**Backend & Automation**<br/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white"/>
+
+**Database & Cloud**<br/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
 
 </div>
 
 ---
 
-### ⭐ Scoreboard (Stats)
+### 📊 GitHub Stats
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nidhill&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=e70012&icon_color=e70012" alt="Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhill&layout=compact&theme=radical&hide_border=true&title_color=e70012" alt="Languages" />
-    </td>
-  </tr>
-</table>
+<p>
+<img src="https://nirzak-streak-stats.vercel.app/?user=nidhill&theme=tokyonight&hide_border=true" alt="Streak" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhill&theme=tokyonight&hide_border=true&layout=compact" alt="Languages" height="160" />
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=nidhill&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Stats" />
+</p>
 
 <br/>
 
-<img src="https://media.giphy.com/media/26AHQN9K4Tf9fA85q/giphy.gif" width="100%" height="auto" />
+<img src="https://media.giphy.com/media/iId3d6lC0IXM6Z8VvL/giphy.gif" width="50" height="50" style="margin-bottom: -10px;" />
 
-<br/>
+<img src="https://media.giphy.com/media/26AHQN9K4Tf9fA85q/giphy.gif" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhill&theme=react-dark&hide_border=true&area=true&color=e70012" width="100%" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhill&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 <br/><br/>
 
-<img src="https://visitcount.itsvg.in/api?id=nidhill&icon=5&color=4" alt="Visitor Count" />
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=nidhill&icon=5&color=4" alt="Visitor Count" />
+</a>
 
 </div>
