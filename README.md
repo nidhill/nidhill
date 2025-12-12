@@ -1,112 +1,91 @@
-<!-- HEADER -->
-<h1 align="center">👋 Hey, I'm <span style="color:#4F8EF7;">Nidhil</span></h1>
-<h3 align="center">Full-Stack Developer • SaaS Builder • Automation Enthusiast</h3>
-
-<p align="center">
-  <em>Building real products that real people use — turning ideas into scalable SaaS 🚀</em>
-</p>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2346C2FF&size=24&center=true&width=900&lines=SaaS+Developer+%7C+Full-Stack+Engineer+%7C+UI%2FUX+Builder;Building+Multi-Brand+Social+Media+Management+SaaS;Automation+%7C+APIs+%7C+Node.js+%7C+Next.js;I+Love+Turning+Ideas+Into+Real+Products+🚀" />
-</p>
+# 👋 Hi, I'm Nidhil!  
+Full-Stack Developer | SaaS Builder | Automation Enthusiast  
 
 ---
 
-## 💫 About Me
+# 💫 About Me  
+🧪 **Currently working on:**  
+A multi-brand Social Media Management SaaS (scheduler, analytics, automation)
 
-- 🧪 **Currently building:** A multi-brand **social media management SaaS**  
-  <sub>Scheduler • Analytics • Automation • Multi-user</sub>
+🤝 **Collaborating on:**  
+Full-stack apps, SaaS products, API integrations, automation tools
 
-- 🤝 **Looking to collaborate on:**  
-  Full-stack projects, SaaS products, backend architecture, automation tools
+🙋‍♂️ **Looking for help with:**  
+Scaling SaaS, analytics systems & backend performance
 
-- 🧩 **Need help with:**  
-  Scaling SaaS, advanced analytics, backend optimization
+🌱 **Currently learning:**  
+Next.js, Node.js advanced patterns, Meta Graph API, cloud deployments
 
-- 🌱 **Currently learning:**  
-  **Next.js**, advanced **Node.js patterns**, **Meta Graph API**, cloud deployments
+💬 **Ask me about:**  
+SaaS development, APIs, automation, React, Node.js, UI/UX
 
-- 💬 **Ask me about:**  
-  SaaS development, React, Node.js, APIs, Automation, UI/UX
-
-- ⚡ **Fun fact:**  
-  Small ideas → Full products. I love building apps that *actually* get used 😄
+⚡ **Fun fact:**  
+I love building real apps — even small ideas can turn into full products 😄
 
 ---
 
 ## 🌐 Socials  
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-nidhil-6ba56a328">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="mailto:nidhiljabbar@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nidhil-6ba56a328)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nidhiljabbar@gmail.com)
 
 ---
 
-# 💻 Tech Stack
-
-### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,js,vite" />
-</p>
-
-### **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,jwt,npm" />
-</p>
-
-### **Database & Cloud**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,supabase,vercel,netlify" />
-</p>
-
-### **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,framer,ejs" />
-</p>
+# 🏆 Achievements  
+- 🚀 Built a complete multi-brand **Social Media Management SaaS**  
+- 📊 Designed analytics dashboard + auto-reporting system  
+- 🔗 Integrated Meta Graph API (Instagram, Facebook)  
+- 🎨 Designed premium UIs using Figma & Framer  
+- 🛠️ Delivered high-quality full-stack apps for multiple clients  
+- ⚡ Optimized backend logic improving performance & UX  
+- 💡 Created reusable components + scalable architecture  
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhill&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nidhill&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhill&layout=compact&theme=tokyonight" height="160"/>
-</p>
+# 💻 Tech Stack  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
+![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)  
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-# 🟩 My GitHub Contribution Graph
-<p align="center">
-  <img src="https://ghchart.rshah.org/4F8EF7/nidhill" alt="GitHub Contribution Graph" />
-</p>
+# 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=nidhill&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)  
+
+![](https://nirzak-streak-stats.vercel.app/?user=nidhill&theme=shadow_blue&hide_border=false)  
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhill&theme=shadow_blue&hide_border=false&layout=compact)
+
+---
+
+# 🏃‍♂️ Activity Graph Banner  
+![Running Banner](https://i.imgur.com/nNFf2Vb.png)
+
+---
+
+# 🟩 My GitHub Contribution Graph  
+![](https://github-readme-activity-graph.vercel.app/graph?username=nidhill&theme=react-dark&hide_border=true)
 
 ---
 
 # 🌊 Activity Wave Animation  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhill&theme=react-dark&area=true&hide_border=true&custom_title=🔥%20My%20Contribution%20Wave" />
-</p>
+![Wave](https://github-readme-activity-graph.vercel.app/graph?username=nidhill&theme=react-dark&area=true&hide_border=true&custom_title=My%20Contribution%20Wave)
 
 ---
 
-# 🐍 Contribution Snake Animation  
-<p align="center">
-  <img src="https://github.com/nidhill/nidhill/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+### 🔝 Top Contributed Repositories  
+![](https://github-contributor-stats.vercel.app/api?username=nidhill&limit=5&theme=noctis_minimus&combine_all_yearly_contributions=true)
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nidhill&icon=0&color=6" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=nidhill&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Advanced Profile Generated by ChatGPT -->
