@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nidhil!  
+# 👋 Hi, I'm Nidhil!
 Full-Stack Developer | SaaS Builder | Automation Enthusiast  
 
 ---
@@ -59,33 +59,32 @@ I love building real apps — even small ideas can turn into full products 😄
 ---
 
 # 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=nidhill&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-stats.vercel.app/api?username=nidhill&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=nidhill&theme=shadow_blue&hide_border=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=nidhill&theme=shadow_blue&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhill&theme=shadow_blue&hide_border=false&layout=compact)
 
 ---
 
-# 🏃‍♂️ Activity Graph Banner  
-![Running Banner](https://i.imgur.com/nNFf2Vb.png)
+## 🏃 Activity Graph Banner  
+![Running Banner](https://raw.githubusercontent.com/techwithanirudh/assets/main/running-banner-animated.gif)
 
 ---
 
-# 🟩 My GitHub Contribution Graph  
+## 🟩 My GitHub Contribution Graph  
 ![](https://github-readme-activity-graph.vercel.app/graph?username=nidhill&theme=react-dark&hide_border=true)
 
 ---
 
-# 🌊 Activity Wave Animation  
+## 🌊 Activity Wave Animation  
 ![Wave](https://github-readme-activity-graph.vercel.app/graph?username=nidhill&theme=react-dark&area=true&hide_border=true&custom_title=My%20Contribution%20Wave)
 
 ---
 
-### 🔝 Top Contributed Repositories  
+# 🔝 Top Contributed Repositories  
 ![](https://github-contributor-stats.vercel.app/api?username=nidhill&limit=5&theme=noctis_minimus&combine_all_yearly_contributions=true)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=nidhill&icon=0&color=0)](https://visitcount.itsvg.in)
-
